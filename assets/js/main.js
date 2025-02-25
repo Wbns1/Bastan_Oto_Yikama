@@ -56,7 +56,7 @@ gsap.from('.home__panel-1', {y: -1000, duration: 2})
 gsap.from('.home__panel-2', {y: 1000, duration: 2})
 gsap.from('.home__image', {x: 1000, duration: 2})
 gsap.from('.home__titles', {y: 100, opacity: 0, delay: 2})
-gsap.from('.home__description', {y: 100,opacity: 0, delay: 2})
+/*gsap.from('.home__description', {y: 100,opacity: 0, delay: 2})*/
 
 /*=============== ADD BLUR HEADER ===============*/
 
